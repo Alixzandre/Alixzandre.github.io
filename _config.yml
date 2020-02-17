@@ -1,11 +1,11 @@
 # Site settings
 author: Alexander Bispo
-title: 
+title: Making my Cli application
 header-img: img/home-bg.png
 email: alexbispo173@gmail.com
 copyright_name: Alexander Bispo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  the Successes and Failures and shortcuts 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Alixzandre
